@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/3o7WTL4qQCbbLLV2Pm/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/3o7WTL4qQCbbLLV2Pm/giphy.gif" width="200"/>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/mger-movsisyan-0b3115231/">
