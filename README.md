@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/3o7WTL4qQCbbLLV2Pm/giphy.gif" width="100"/>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/mger-movsisyan-0b3115231/">
@@ -19,7 +19,7 @@
 <div align="center">
 ### :man_technologist: About Me :
 
-I am a QA engineer <img src="https://media.giphy.com/media/3o7WTL4qQCbbLLV2Pm/giphy.gif" width="100"> from Russia.
+I am a QA engineer from Russia.
 
 ### :hammer_and_wrench: Languages and Tools :
   </div>
