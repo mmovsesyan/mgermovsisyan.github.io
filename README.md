@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/l2R06WPHU4ae0H4LC/giphy.gif" width="200"/>
-</div>
+</div><br>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/mger-movsisyan-0b3115231/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -25,21 +25,21 @@ programs like Charles and Postman. In web testing, I learned how to work with De
 using the black and gray box method. Specifications, layouts, layout, functionality, API. Applied techniques design
 test Classes Equivalence and Boundary Values, pairwise testing, cross-browser testing, etc. I have a keen eye on the
 details and perseverance in successfully completing the work. I love the challenges of new technology, and I strive
-to overcome my own high-level goals.
-Knowledge of testing!  
-Drawing up a mindmap project
-Drawing up block diagrams
-Compiling test cases ans checklists
-Application of test design techniques
-Testing layout
-Testing documentation
-Testing mobile applications Android Studio, adb
-Testing API Postman
-Registration of bug reports Yandex.Tracker, Jira
-Work with logs through the console
-Work with the database at the level of Join
-Basic work with .nix systems. REST architecture (Json, XML I distinguish on the fly)
-Software life cycle
+to overcome my own high-level goals. <br>
+Knowledge of testing! <br>
+Drawing up a mindmap project <br>
+Drawing up block diagrams <br>
+Compiling test cases ans checklists <br>
+Application of test design techniques <br>
+Testing layout <br>
+Testing documentation <br>
+Testing mobile applications Android Studio, adb <br>
+Testing API Postman <br>
+Registration of bug reports Yandex.Tracker, Jira <br>
+Work with logs through the console <br>
+Work with the database at the level of Join <br>
+Basic work with .nix systems. REST architecture (Json, XML I distinguish on the fly) <br>
+Software life cycle <br>
 
 
 ### :hammer_and_wrench: Languages and Tools :
