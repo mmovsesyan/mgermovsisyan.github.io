@@ -20,6 +20,27 @@
 ### :man_technologist: About Me :
 
 I am a QA engineer from Russia.
+I studied at Yandex Practicum. My experience includes functional and non-functional testing. I've worked with
+programs like Charles and Postman. In web testing, I learned how to work with Devtools. During the training, I tested
+using the black and gray box method. Specifications, layouts, layout, functionality, API. Applied techniques design
+test Classes Equivalence and Boundary Values, pairwise testing, cross-browser testing, etc. I have a keen eye on the
+details and perseverance in successfully completing the work. I love the challenges of new technology, and I strive
+to overcome my own high-level goals.
+Knowledge of testing!  
+Drawing up a mindmap project
+Drawing up block diagrams
+Compiling test cases ans checklists
+Application of test design techniques
+Testing layout
+Testing documentation
+Testing mobile applications Android Studio, adb
+Testing API Postman
+Registration of bug reports Yandex.Tracker, Jira
+Work with logs through the console
+Work with the database at the level of Join
+Basic work with .nix systems. REST architecture (Json, XML I distinguish on the fly)
+Software life cycle
+
 
 ### :hammer_and_wrench: Languages and Tools :
   </div>
