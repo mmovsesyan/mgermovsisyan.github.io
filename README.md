@@ -1,9 +1,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/l2R06WPHU4ae0H4LC/giphy.gif" width="200"/>
 </div>
-<div width="500">
-  &mdash;
-  </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/mger-movsisyan-0b3115231/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -22,7 +19,7 @@
 <div align="center">
 ### :man_technologist: About Me :
 
-I am a QA engineer from Russia.
+I am a QA engineer from Russia.&nbsp;
 I studied at Yandex Practicum. My experience includes functional and non-functional testing. I've worked with
 programs like Charles and Postman. In web testing, I learned how to work with Devtools. During the training, I tested
 using the black and gray box method. Specifications, layouts, layout, functionality, API. Applied techniques design
