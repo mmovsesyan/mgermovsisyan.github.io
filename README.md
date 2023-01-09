@@ -1,6 +1,9 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/l2R06WPHU4ae0H4LC/giphy.gif" width="200"/>&mdash;
+  <img src="https://media.giphy.com/media/l2R06WPHU4ae0H4LC/giphy.gif" width="200"/>
 </div>
+<div>
+  &mdash;
+  </div
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/mger-movsisyan-0b3115231/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
