@@ -19,7 +19,7 @@
 <div align="center">
 ### :man_technologist: About Me :
 
-I am a QA engineer from Russia.&nbsp;
+I am a QA engineer from Russia. <br>
 I studied at Yandex Practicum. My experience includes functional and non-functional testing. I've worked with
 programs like Charles and Postman. In web testing, I learned how to work with Devtools. During the training, I tested
 using the black and gray box method. Specifications, layouts, layout, functionality, API. Applied techniques design
