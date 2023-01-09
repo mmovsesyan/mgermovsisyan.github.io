@@ -7,7 +7,7 @@
   </a>
 </div>
 <div id="header" align="center">
-  <img src="https://icons8.ru/icon/6504/горизонтальная-линия" width="1000"/>
+  <img src="https://icons8.ru/icon/6504/горизонтальная-линия" width="100"/>
 </div>
 <h1>
   hey there
