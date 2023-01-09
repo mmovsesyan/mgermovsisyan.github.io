@@ -16,7 +16,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
-<div>
+<div> <br>
 ### :man_technologist: About Me :
 
 I am a QA engineer from Russia. <br>
