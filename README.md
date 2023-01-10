@@ -56,10 +56,10 @@ Software life cycle <br>
 </a>
 <a href="https://testit.software/">
 <img src="https://github.com/qajenna/qajenna/blob/main/icons/TestIT.png" alt="TestIT" width="50" height="50" />
-</a>-->
+</a>
 <a>
 <img src="https://github.com/qajenna/qajenna/blob/main/icons/TestRail.png" alt="TestRail" width="50" height="50" />
-</a>
+</a>-->
 <a>
 <img src="https://github.com/qajenna/qajenna/blob/main/icons/Zephyr.png" alt="Zephyr" width="50" height="50" />
 </a>
