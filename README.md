@@ -3,16 +3,15 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <div id="badges" align="center">
-
+<!--[![Instagram: mgermovsisyan](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/qa.jenna/)-->
 [![Linkedin: mgermovsisyan](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mger-movsisyan-0b3115231/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/movsisyanmger)
 [![Website: mgermovsisyan](https://img.shields.io/badge/HH-e4405f?style=flat-square&logo=headhunter&logoColor=white)](https://hh.ru/resume/83978ca6ff0b53aded0039ed1f456765633751)
-<!--[![Instagram: mgermovsisyan](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/qa.jenna/)-->
 </div>
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
   </div>
-  
+ 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
