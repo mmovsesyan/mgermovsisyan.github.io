@@ -18,6 +18,13 @@
 </div>
 <div> <br>
 ### :man_technologist: About Me :
+  
+## Портфолио 
+- Тестовая документация
+  -  [First project](https://github.com/mmovsesyan/Test-projects/blob/main/%D0%9C%D0%BE%D0%B2%D1%81%D0%B8%D1%81%D1%8F%D0%BD%20%D0%9C%D0%B3%D0%B5%D1%80%2045%D1%8F%20%D0%BA%D0%BE%D0%B3%D0%BE%D1%80%D1%82%D0%B0%201%D1%8B%D0%B9%20%D1%81%D0%BF%D1%80%D0%B8%D0%BD%D1%82%20.xlsx)
+  -  [Second project]https://github.com/mmovsesyan/Test-projects/blob/main/%D0%9C%D0%B3%D0%B5%D1%80%20%D0%9C%D0%BE%D0%B2%D1%81%D0%B8%D1%81%D1%8F%D0%BD%2045%20%D1%8F%20%D0%BA%D0%BE%D0%B3%D0%BE%D1%80%D1%82%D0%B0%202-%D0%B9%20%D1%81%D0%BF%D1%80%D0%B8%D0%BD%D1%82.xlsx)
+  -  [Third project](https://github.com/mmovsesyan/Test-projects/blob/main/%D0%9C%D0%B3%D0%B5%D1%80%20%D0%9C%D0%BE%D0%B2%D1%81%D0%B8%D1%81%D1%8F%D0%BD%20-%203%20-%20%D0%B9%20%D1%81%D0%BF%D1%80%D0%B8%D0%BD%D1%82%2045%D1%8F%20%D0%BA%D0%BE%D0%B3%D0%BE%D1%80%D1%82%D0%B0.xlsx)
+  -  [Diplom]([https://ссылочку_сюда](https://github.com/mmovsesyan/Test-projects/blob/main/%D0%9C%D0%BE%D0%B2%D1%81%D0%B8%D1%81%D1%8F%D0%BD%20%D0%9C%D0%B3%D0%B5%D1%80%2045%20%D0%B0%D1%8F%20%D0%BA%D0%BE%D0%B3%D0%BE%D1%80%D1%82%D0%B0%20-%20%D0%B4%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC.xlsx))
 
 I am a QA engineer from Russia. <br>
 I studied at Yandex Practicum. My experience includes functional and non-functional testing. I've worked with
@@ -45,12 +52,12 @@ Software life cycle <br>
 ### :hammer_and_wrench: Languages and Tools :
   </div>
 <div>
-<a href="https://qase.io/">
+<!--<a href="https://qase.io/">
 <img src="https://github.com/qajenna/qajenna/blob/main/icons/Qase.io.png" alt="Qase.io" width="50" height="50" />
 </a>
 <a href="https://testit.software/">
 <img src="https://github.com/qajenna/qajenna/blob/main/icons/TestIT.png" alt="TestIT" width="50" height="50" />
-</a>
+</a>-->
 <a href="https://www.gurock.com/testrail">
 <img src="https://github.com/qajenna/qajenna/blob/main/icons/TestRail.png" alt="TestRail" width="50" height="50" />
 </a>
@@ -81,8 +88,8 @@ Software life cycle <br>
 <!--<a href="https://codemagic.io/">
 <img src="https://github.com/qajenna/qajenna/blob/main/icons/Codemagic.png" alt="Codemagic" width="50" height="50" /> 
 </a>-->
-<a href="https://www.jetbrains.com/teamcity/">
-<img src="https://github.com/qajenna/qajenna/blob/main/icons/TeamCity.png" alt="Teamcity" width="50" height="50" />
+<a href="https://www.jetbrains.com/intellijidea/">
+<img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" alt="Teamcity" width="50" height="50" />
 </a>
 <!--<a href="https://developer.apple.com/testflight/">
 <img src="https://github.com/qajenna/qajenna/blob/main/icons/Testflight.png" alt="Testflight" width="50" height="50" />
