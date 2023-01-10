@@ -35,7 +35,7 @@ to overcome my own high-level goals. <br>
 Knowledge of testing! <br>
 Drawing up a mindmap project <br>
 Drawing up block diagrams <br>
-Compiling test cases ans checklists <br>
+Compiling test cases and checklists <br>
 Application of test design techniques <br>
 Testing layout <br>
 Testing documentation <br>
