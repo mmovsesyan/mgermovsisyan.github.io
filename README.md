@@ -4,10 +4,10 @@
 <div id="badges" align="center">
   ## Мои контакты
 
-[![Linkedin: jennaqa](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/jennaqa)
-[![Website: jennaqa](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://qajenna.com/)
-[![Instagram: jennaqa](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/qa.jenna/)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/jennaisakova)
+[![Linkedin: mgermovsisyan](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](linkedin.com/in/mger-movsisyan-0b3115231/)
+<!--[![Website: mgermovsisyan](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://qajenna.com/)
+[![Instagram: mgermovsisyan](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/qa.jenna/)-->
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/movsisyanmger)
 
 </div>
 <div align="center">
@@ -62,13 +62,13 @@ Software life cycle <br>
 <a href="https://testit.software/">
 <img src="https://github.com/qajenna/qajenna/blob/main/icons/TestIT.png" alt="TestIT" width="50" height="50" />
 </a>-->
-<a href="https://www.gurock.com/testrail">
+<a>
 <img src="https://github.com/qajenna/qajenna/blob/main/icons/TestRail.png" alt="TestRail" width="50" height="50" />
 </a>
-<a href="https://marketplace.atlassian.com/apps/1014681/zephyr-squad-test-management-for-jira?tab=overview&hosting=cloud">
+<a>
 <img src="https://github.com/qajenna/qajenna/blob/main/icons/Zephyr.png" alt="Zephyr" width="50" height="50" />
 </a>
-<a href="https://www.charlesproxy.com/">
+<a>
 <img src="https://github.com/qajenna/qajenna/blob/main/icons/Charles.png" alt="Charles" width="50" height="50" />
 </a>
 <!--<a href="https://www.telerik.com/fiddler">
@@ -92,8 +92,8 @@ Software life cycle <br>
 <!--<a href="https://codemagic.io/">
 <img src="https://github.com/qajenna/qajenna/blob/main/icons/Codemagic.png" alt="Codemagic" width="50" height="50" /> 
 </a>-->
-<a href="https://www.jetbrains.com/intellijidea/">
-<img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" alt="Teamcity" width="50" height="50" />
+<a>
+<img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original-wordmark.svg" alt="Teamcity" width="50" height="50" />
 </a>
 <!--<a href="https://developer.apple.com/testflight/">
 <img src="https://github.com/qajenna/qajenna/blob/main/icons/Testflight.png" alt="Testflight" width="50" height="50" />
