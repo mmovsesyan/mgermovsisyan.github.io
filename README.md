@@ -6,8 +6,8 @@
 
 [![Linkedin: mgermovsisyan](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mger-movsisyan-0b3115231/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/movsisyanmger)
-<!--[![Website: mgermovsisyan](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://qajenna.com/)
-[![Instagram: mgermovsisyan](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/qa.jenna/)-->
+[![Website: mgermovsisyan](https://img.shields.io/badge/HH-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://hh.ru/resume/83978ca6ff0b53aded0039ed1f456765633751)
+<!--[![Instagram: mgermovsisyan](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/qa.jenna/)-->
 </div>
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
