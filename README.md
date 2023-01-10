@@ -59,10 +59,10 @@ Software life cycle <br>
 </a>
 <a>
 <img src="https://github.com/qajenna/qajenna/blob/main/icons/TestRail.png" alt="TestRail" width="50" height="50" />
-</a>-->
+</a>
 <a>
 <img src="https://github.com/qajenna/qajenna/blob/main/icons/Zephyr.png" alt="Zephyr" width="50" height="50" />
-</a>
+</a>-->
 <a>
 <img src="https://github.com/qajenna/qajenna/blob/main/icons/Charles.png" alt="Charles" width="50" height="50" />
 </a>
