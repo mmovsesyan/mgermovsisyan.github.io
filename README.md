@@ -2,9 +2,6 @@
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/l2R06WPHU4ae0H4LC/giphy.gif" width="200"/>
-</div><br>
 <div id="badges" align="center">
 
 [![Linkedin: mgermovsisyan](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mger-movsisyan-0b3115231/)
