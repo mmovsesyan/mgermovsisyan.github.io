@@ -17,7 +17,7 @@
 </div>
 <div>
   
-## CV and Certificate
+## CV and Certificate:
   - [Certificate](https://drive.google.com/file/d/1VeHiKgXYDlY5O5YkOU9ASTsjQFcjuH2S/view?usp=sharing)
   - [CV](https://drive.google.com/file/d/1cP2JjT6e_IxU6H9xhizExO2VLTegUXfe/view?usp=sharing)
 ## Portfolio:
