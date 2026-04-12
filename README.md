@@ -1,70 +1,96 @@
-<h1 align="center">Привет, я Мгер 👋</h1>
+<h1 align="center">Mger Movsisyan</h1>
 <p align="center">
-  QA Engineer • Web / API / Mobile Testing • Manual + Automation (base)
+  QA Engineer • Web / API / Mobile Testing • Open to Work
 </p>
 
 <p align="center">
   <a href="https://t.me/your_telegram">Telegram</a> •
-  <a href="https://www.linkedin.com/in/your_linkedin">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/your_linkedin/">LinkedIn</a> •
+  <a href="mailto:your.email@example.com">Email</a> •
   <a href="https://your-portfolio-link.com">Portfolio</a>
 </p>
 
 ---
 
-## 👨‍💻 Обо мне
+## About Me
 
-Я QA-инженер с опытом функционального и нефункционального тестирования веб- и мобильных приложений.  
-Работаю с API, документацией, баг-репортами и тестовой документацией, внимательно отношусь к деталям и качеству продукта.
+QA Engineer with hands-on experience in functional and non-functional testing of web and mobile applications.  
+I help teams ship stable releases faster through structured test analysis, risk-based testing, and clear defect reporting.
 
-- Обучение: **Yandex Practicum**
-- Практика: black-box / gray-box testing
-- Фокус: качество релизов, прозрачная отчетность, удобный UX
-
----
-
-## 🧪 Что я умею
-
-- Анализ требований и тест-дизайн (Equivalence Classes, Boundary Values, Pairwise)
-- Составление **test cases**, **checklists**, **mind maps**
-- Функциональное, регрессионное, smoke, exploratory тестирование
-- API testing: **Postman**, REST (JSON / XML)
-- Web testing: DevTools, кроссбраузерное тестирование
-- Mobile testing: **Android Studio**, **ADB**
-- Работа с баг-трекингом: **Jira**, **Yandex Tracker**
-- SQL на уровне **JOIN**, работа с логами и консолью
-- Базовые навыки Linux / Unix
+- Education: **Yandex Practicum**
+- Testing approach: **black-box / gray-box**
+- Focus: **release quality, user experience, product reliability**
 
 ---
 
-## 🛠️ Инструменты и технологии
+## What Value I Bring
 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Charles](https://img.shields.io/badge/Charles-1E1E1E?style=for-the-badge&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![MySQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+- Reduce release risks through strong test coverage and smart prioritization
+- Detect critical issues early in UI, API, and integration flows
+- Provide clear quality visibility with well-structured test artifacts
+- Combine product thinking and QA mindset: test not only correctness, but also user value
 
 ---
 
-## 📂 Портфолио
+## Core Skills
 
-- 🔹 **Project 1** — краткое описание + [ссылка](https://github.com/your/project1)
-- 🔹 **Project 2** — краткое описание + [ссылка](https://github.com/your/project2)
-- 🔹 **Project 3** — краткое описание + [ссылка](https://github.com/your/project3)
-- 🔹 **Diploma Project** — краткое описание + [ссылка](https://github.com/your/diploma)
-
----
-
-## 📄 CV и сертификаты
-
-- [📎 CV (резюме)](https://your-cv-link.com)
-- [🏅 Certificate](https://your-certificate-link.com)
+- **Test Design:** Equivalence Classes, Boundary Values, Pairwise
+- **Test Documentation:** Test Cases, Checklists, Mind Maps
+- **Testing Types:** Functional, Regression, Smoke, Exploratory, Cross-Browser
+- **API Testing:** Postman, REST, JSON/XML validation
+- **Web Testing:** DevTools, network/console diagnostics
+- **Mobile Testing:** Android Studio, ADB
+- **Bug Tracking:** Jira, Yandex Tracker
+- **Data & Logs:** SQL (JOIN), log analysis, console tools
+- **Environment:** Linux/Unix basics, Git
 
 ---
 
-## 📫 Связаться со мной
+## Current Focus (2026)
 
-- Telegram: [@your_telegram](https://t.me/your_telegram)
-- LinkedIn: [your-profile](https://www.linkedin.com/in/your_linkedin/)
-- Email: your.email@example.com
+- Deepening **SQL** skills: complex JOINs, aggregations, query optimization
+- Learning **Python** for QA automation: Pytest, API/UI test foundations, test data handling
+- Using **AI-assisted development** to accelerate test scenario generation, analysis, and QA productivity
+
+---
+
+## Tools & Technologies
+
+<p>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/Charles-1E1E1E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/DevTools-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+---
+
+## Portfolio Projects
+
+- **Project 1** — End-to-end QA cycle: requirements analysis, test design, bug reporting  
+  [Repository](https://github.com/your/project1)
+
+- **Project 2** — API + UI testing with focus on critical user flows and edge cases  
+  [Repository](https://github.com/your/project2)
+
+- **Diploma Project** — Full testing documentation set and release quality validation  
+  [Repository](https://github.com/your/diploma)
+
+---
+
+## CV & Certificates
+
+- [CV / Resume](https://your-cv-link.com)
+- [Certificate](https://your-certificate-link.com)
+
+---
+
+## Open to Opportunities
+
+I’m open to **QA Engineer / Junior+ QA** roles (Web, API, Mobile).  
+Ready to contribute quickly, strengthen release quality, and grow into QA Automation.
