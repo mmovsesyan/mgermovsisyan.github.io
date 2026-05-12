@@ -89,7 +89,7 @@ I help teams ship stable releases faster through structured test analysis, risk-
 ## CV & Certificates
 
 - [CV / Resume](https://your-cv-link.com)
-- [Certificate]([https://your-certificate-link.com](https://drive.google.com/file/d/1VeHiKgXYDlY5O5YkOU9ASTsjQFcjuH2S/view?usp=sharing))
+- [Certificate](https://drive.google.com/file/d/1VeHiKgXYDlY5O5YkOU9ASTsjQFcjuH2S/view?usp=sharing)
 
 ---
 
