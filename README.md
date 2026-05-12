@@ -72,16 +72,16 @@ I help teams ship stable releases faster through structured test analysis, risk-
 
 ## Portfolio Projects
 
-- **Project 1** — End-to-end QA cycle: requirements analysis, test design, bug reporting  
+- **[Project 1]** — End-to-end QA cycle: requirements analysis, test design, bug reporting  
   https://github.com/mmovsesyan/Test-projects/blob/main/%D0%9C%D0%BE%D0%B2%D1%81%D0%B8%D1%81%D1%8F%D0%BD%20%D0%9C%D0%B3%D0%B5%D1%80%2045%D1%8F%20%D0%BA%D0%BE%D0%B3%D0%BE%D1%80%D1%82%D0%B0%201%D1%8B%D0%B9%20%D1%81%D0%BF%D1%80%D0%B8%D0%BD%D1%82%20.xlsx
   
-- **Project 2** — API + UI testing with focus on critical user flows and edge cases  
+- **[Project 2]** — API + UI testing with focus on critical user flows and edge cases  
   https://github.com/mmovsesyan/Test-projects/blob/main/%D0%9C%D0%B3%D0%B5%D1%80%20%D0%9C%D0%BE%D0%B2%D1%81%D0%B8%D1%81%D1%8F%D0%BD%2045%20%D1%8F%20%D0%BA%D0%BE%D0%B3%D0%BE%D1%80%D1%82%D0%B0%202-%D0%B9%20%D1%81%D0%BF%D1%80%D0%B8%D0%BD%D1%82.xlsx
 
-- **Project 3** — API + UI testing with focus on critical user flows and edge cases
+- **[Project 3]** — API + UI testing with focus on critical user flows and edge cases
   https://github.com/mmovsesyan/Test-projects/blob/main/%D0%9C%D0%B3%D0%B5%D1%80%20%D0%9C%D0%BE%D0%B2%D1%81%D0%B8%D1%81%D1%8F%D0%BD%20-%203%20-%20%D0%B9%20%D1%81%D0%BF%D1%80%D0%B8%D0%BD%D1%82%2045%D1%8F%20%D0%BA%D0%BE%D0%B3%D0%BE%D1%80%D1%82%D0%B0.xlsx  
 
-- **Diploma Project** — Full testing documentation set and release quality validation  
+- **[Diploma Project]** — Full testing documentation set and release quality validation  
   https://github.com/mmovsesyan/Test-projects/blob/main/%D0%9C%D0%BE%D0%B2%D1%81%D0%B8%D1%81%D1%8F%D0%BD%20%D0%9C%D0%B3%D0%B5%D1%80%2045%20%D0%B0%D1%8F%20%D0%BA%D0%BE%D0%B3%D0%BE%D1%80%D1%82%D0%B0%20-%20%D0%B4%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC.xlsx
   
 ---
